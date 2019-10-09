@@ -1,0 +1,4 @@
+#Wed Oct 09 22:23:43 ICT 2019
+base.0=F\:\\Android_Networking\\HttpRequest3-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

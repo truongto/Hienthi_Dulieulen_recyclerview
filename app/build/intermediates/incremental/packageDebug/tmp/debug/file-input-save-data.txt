@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Sep 26 22:18:49 ICT 2019
+0.baseType=DIRECTORY
+0.base=F\:\\Android_Networking\\HttpRequest3-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
